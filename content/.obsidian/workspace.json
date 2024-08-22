@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "7a677ff120c865ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa238e4e8fde5592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a5c677a1744d9f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw-sources/chatgpt/ChatGPT – Git vs. Blockchain.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bf91ee9c80517b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science Fundamental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b9de58622c1163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usecases/blockchain-usecases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d58375d2ffc47ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usecases/blockchain-usecases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5105162f51f54f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb6508911698849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3666a43174c837",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75916f65ed101af1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62ca0e7cfe833fd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "ae0e07c85ff653cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61009263e4bc90d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16463732e463ef38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "usecases/blockchain-usecases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a5f3d035abab364",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "usecases/blockchain-usecases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38b30b7820f1065e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47473e34f4681dc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "usecases/blockchain-usecases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d58375d2ffc47ed",
+  "lastOpenFiles": [
+    "learning-path.md",
+    "raw-sources/chatgpt/ChatGPT – Git vs. Blockchain.md",
+    "usecases/blockchain-usecases.md",
+    "usecases",
+    "Computer Science Fundamental.md",
+    "index.md",
+    "raw-sources.md",
+    "101-blockchain-fundamental/merkle-tree.md",
+    "raw-sources/stackoverflow/Why is Git not considered a \"block chain\"?.md",
+    "raw-sources/articles/How can a newbie start learning about Blockchain?.md",
+    "101-blockchain-fundamental/hashing-in-blockchain.md",
+    "101-blockchain-fundamental",
+    "raw-sources/chatgpt",
+    "raw-sources/stackoverflow",
+    "102-popular-project/Hyperledger.md",
+    "thought",
+    "102-popular-project/Bitcoin.md",
+    "raw-sources/book/book-mastering-ethereum.md",
+    "raw-sources/youtube",
+    "raw-sources/book/book-mastering-bitcoin.md",
+    "102-popular-project/Ethereum.md",
+    "raw-sources/book",
+    "blockchain-projects/stablecoin/Tether (USDT).md",
+    "blockchain-projects/interoperability/Polkadot (DOT).md",
+    "blockchain-projects/interoperability/Cosmos (ATOM).md",
+    "blockchain-projects/exchange/Binance Coin (BNB).md",
+    "blockchain-projects/cryptocurrencies/Ripple (XRP).md",
+    "blockchain-projects/cryptocurrencies/Litecoin (LTC).md",
+    "blockchain-projects/blockchain-projects-by-importance.md",
+    "blockchain-projects/blockchain-project-lists-by-usecase.md",
+    "blockchain-projects/stablecoin",
+    "blockchain-projects/interoperability",
+    "blockchain-projects/exchange",
+    "practices/built-your-own-smart-contract.md",
+    "practices/built-your-own-blockchain.md",
+    "practices/built-your-own-digital-wallet.md"
+  ]
+}
