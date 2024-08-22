@@ -22,43 +22,67 @@
             }
           },
           {
-            "id": "bf91ee9c80517b93",
+            "id": "bb521c1cc6191da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science Fundamental.md",
+                "file": "Blockchain Learning Path.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d0b9de58622c1163",
+            "id": "0219186afadfc489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usecases/blockchain-usecases.md",
+                "file": "Tether Learning Path.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d58375d2ffc47ed",
+            "id": "96517a4ebdff4910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usecases/blockchain-usecases.md",
+                "file": "Binance Coin Learning Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "142ad722b3bfee01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solana Learning Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89c180372e4c036e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ripple Learning Path.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usecases/blockchain-usecases.md",
+                "file": "Ripple Learning Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usecases/blockchain-usecases.md",
+                "file": "Ripple Learning Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usecases/blockchain-usecases.md"
+                "file": "Ripple Learning Path.md"
               }
             }
           }
@@ -185,14 +209,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d58375d2ffc47ed",
+  "active": "89c180372e4c036e",
   "lastOpenFiles": [
-    "learning-path.md",
+    "Solana Learning Path.md",
+    "Ripple Learning Path.md",
+    "Binance Coin Learning Path.md",
+    "Tether Learning Path.md",
+    "Blockchain Learning Path.md",
+    "index.md",
     "raw-sources/chatgpt/ChatGPT – Git vs. Blockchain.md",
+    "Ethereum Learning Path.md",
+    "Bitcoin Learning Path.md",
+    "Computer Science Fundamental.md",
+    "learning-path.md",
     "usecases/blockchain-usecases.md",
     "usecases",
-    "Computer Science Fundamental.md",
-    "index.md",
     "raw-sources.md",
     "101-blockchain-fundamental/merkle-tree.md",
     "raw-sources/stackoverflow/Why is Git not considered a \"block chain\"?.md",
@@ -213,15 +244,8 @@
     "blockchain-projects/interoperability/Polkadot (DOT).md",
     "blockchain-projects/interoperability/Cosmos (ATOM).md",
     "blockchain-projects/exchange/Binance Coin (BNB).md",
-    "blockchain-projects/cryptocurrencies/Ripple (XRP).md",
-    "blockchain-projects/cryptocurrencies/Litecoin (LTC).md",
-    "blockchain-projects/blockchain-projects-by-importance.md",
-    "blockchain-projects/blockchain-project-lists-by-usecase.md",
     "blockchain-projects/stablecoin",
     "blockchain-projects/interoperability",
-    "blockchain-projects/exchange",
-    "practices/built-your-own-smart-contract.md",
-    "practices/built-your-own-blockchain.md",
-    "practices/built-your-own-digital-wallet.md"
+    "blockchain-projects/exchange"
   ]
 }
